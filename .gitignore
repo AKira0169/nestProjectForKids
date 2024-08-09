@@ -1,0 +1,8 @@
+node_modules
+.cache
+.vscode
+trash
+start the system.bat
+*.env
+desktop.ini
+dist
